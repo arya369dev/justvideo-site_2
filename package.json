@@ -1,0 +1,6 @@
+{
+  "name": "justvideo-website",
+  "private": true,
+  "description": "JustVideo Broadcast website: static site + one Vercel function for the enquiry form.",
+  "engines": { "node": ">=18" }
+}
